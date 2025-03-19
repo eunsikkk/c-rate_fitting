@@ -5,7 +5,7 @@ import com.comsol.model.*
 import com.comsol.model.util.*
 
 % Load model
-model = mphload('C:\Users\ECHOI\Downloads\c_20_ocv2.mph'); % ocv2 model
+model = mphload('G:\공유 드라이브\Battery Software Lab\0_Group Meeting\개인별_미팅자료\최은식\2025\COMSOL\C_rate fitting\c_20_ocv2.mph'); % ocv2 model
 
 ModelUtil.showProgress(true);
 
